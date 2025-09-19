@@ -1,4 +1,7 @@
+Project Title
 Amazon Sales Analysis Dashboard
+
+Short Description
 This project presents an interactive Power BI dashboard designed to analyze Amazon product sales performance across multiple dimensions such as revenue, product categories, product reviews, and time-based trends. 
 The dashboard provides actionable insights to track sales growth, identify top-performing products, and evaluate customer engagement.
 
@@ -77,3 +80,6 @@ Sales spikes in Q4 (Oct–Dec), showing strong seasonal demand.
 SanDisk products dominate customer reviews, highlighting strong brand recognition and customer trust.
 
 Toys and Mobile Accessories have lower sales contributions, indicating potential growth opportunities.
+
+Screenshots/ Demo Links
+Link-
