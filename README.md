@@ -1,7 +1,9 @@
 Project Title
+
 Amazon Sales Analysis Dashboard
 
 Short Description
+
 This project presents an interactive Power BI dashboard designed to analyze Amazon product sales performance across multiple dimensions such as revenue, product categories, product reviews, and time-based trends. 
 The dashboard provides actionable insights to track sales growth, identify top-performing products, and evaluate customer engagement.
 
