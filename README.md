@@ -82,4 +82,4 @@ SanDisk products dominate customer reviews, highlighting strong brand recognitio
 Toys and Mobile Accessories have lower sales contributions, indicating potential growth opportunities.
 
 Screenshots/ Demo Links
-Link-
+Link- https://github.com/PallaviKohadkar/Amazon-Sales-Analysis/blob/main/Amazon%20Sales%20Analysis%20Dashboard.png
