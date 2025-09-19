@@ -85,3 +85,5 @@ Toys and Mobile Accessories have lower sales contributions, indicating potential
 
 Screenshots/ Demo Links
 Link- https://github.com/PallaviKohadkar/Amazon-Sales-Analysis/blob/main/Amazon%20Sales%20Analysis%20Dashboard.png
+<img width="1323" height="742" alt="Amazon Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/eff9c037-401c-4b04-a3ef-6d1c39eac365" />
+
